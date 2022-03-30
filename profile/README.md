@@ -65,6 +65,7 @@ A composição das telas segue a seguinte estrutura:
 
 ## 💻 Back End
 <br />
+
 Iniciamos com a importação de dependências necessárias pelo Spring Initializr, conforme segue abaixo:
 
 - Spring Initializr 
@@ -75,6 +76,7 @@ Iniciamos com a importação de dependências necessárias pelo Spring Initializ
 <br />
 
 **Dependências:** 
+
 - Spring Web, MySQL Driver
 - Spring Data JPA
 - Spring Boot DevTools
