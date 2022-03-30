@@ -118,28 +118,11 @@ A estrutura dos pacotes, com as classes e interfaces, está descrita a seguir:
 <br />
 
 - Endpoint para receber geolocalização do entregador
-
-	*POST “/geolocalizacao”*
-
 - Endpoint para alteração dos status dos pedidos
-	
-	*PUT “/pedidos/{id}/status”* 
-
 - Endpoint para consulta de pedidos 
-	
-	*GET “/pedido/listar”* 
-
 - Endpoint para consultas de geolocalização por pedido 
-	
-	*GET “/pedidos/{id}/geolocalizacao”* 
-
 - Endpoint para atribuição do entregador para o pedido
-	
-	*POST “/pedidos/{id_pedido}/entregador/{id_entregador}”*
-
 - Endpoint para Autenticação de entregador 
-         
-	 *POST “/entregador/login”*
 <br />
 
 
