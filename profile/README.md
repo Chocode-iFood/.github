@@ -65,7 +65,7 @@ A composição das telas segue a seguinte estrutura:
 
 ## 💻 Back End
 <br />
-Iniciamos com a importação de dependências necessárias pelo [Spring Initializr](https://start.spring.io/), conforme segue abaixo:
+Iniciamos com a importação de dependências necessárias pelo Spring Initializr, conforme segue abaixo:
 - Spring Initializr 
 - Maven Project
 - Spring Boot 2.6.4
