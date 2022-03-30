@@ -9,6 +9,7 @@ Os Foodlovers do programa iLab foram organizados em grupos para realizar um desa
 <br />
 
 **Track History - Telemetria dos entregadores do Ifood**
+
 Neste projeto deve-se manter todo o histórico de telemetria de um entregador para um determinado pedido. A telemetria é encerrada quando há um evento de conclusão ou cancelamento (por parte do entregador).
 <br />
 
