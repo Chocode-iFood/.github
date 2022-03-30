@@ -16,6 +16,8 @@ Neste projeto deve-se manter todo o histórico de telemetria de um entregador pa
 ## 💻 Desenvolvedores do Grupo Chocode
 <br />
 
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/integrantes.png?raw=true)
+
 - [Claudia Nogueira dos Anjos](https://github.com/AnjosClaudia)
 - [Daniel Silveira](https://github.com/smarticogit)
 - [Raphaela Leite](https://github.com/Raphaella-leite)
