@@ -23,7 +23,9 @@ Neste projeto deve-se manter todo o histórico de telemetria de um entregador pa
 
 ### ✒️ Metodologia
 <br />
-- Para organização utilizamos a metodologia [Kanban](https://github.com/orgs/Chocode-iFood/projects/1)
+
+Para organização utilizamos a metodologia [Kanban](https://github.com/orgs/Chocode-iFood/projects/1)
+
 <br />
 
 ### 📋 Projeto
