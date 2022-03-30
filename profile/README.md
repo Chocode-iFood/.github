@@ -13,7 +13,7 @@ Os Foodlovers do programa iLab foram organizados em grupos para realizar um desa
 Neste projeto deve-se manter todo o histórico de telemetria de um entregador para um determinado pedido. A telemetria é encerrada quando há um evento de conclusão ou cancelamento (por parte do entregador).
 <br />
 
-### 💻 Desenvolvedores do Grupo Chocode
+## 💻 Desenvolvedores do Grupo Chocode
 <br />
 
 - [Claudia Nogueira dos Anjos](https://github.com/AnjosClaudia)
@@ -23,28 +23,48 @@ Neste projeto deve-se manter todo o histórico de telemetria de um entregador pa
 - [Vitor Eleuterio](https://github.com/SevenSecRS)
 
 ### ✒️ Metodologia
+
+Para priorizar a produtividade e a organização das entregas utilizamos a metodologia Kanban no Github.
+
+[Acesso ao Kanban do grupo](https://github.com/orgs/Chocode-iFood/projects/1)
 <br />
 
-Para organização utilizamos a metodologia [Kanban](https://github.com/orgs/Chocode-iFood/projects/1)
-
+## 📋 Projeto
 <br />
 
-### 📋 Projeto
-<br />
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br />
 
-##### 🛠 [Back End](https://github.com/Chocode-iFood/back)
- - Java
- - Spring Boot
- - JWT
+##### 🛠 [Back End](https://github.com/Chocode-iFood/back): Java, Spring Boot, JWT
  
-##### 🛠 [Front End](https://github.com/Chocode-iFood/front)
-- HTML 
-- CSS
-- Javascript
+##### 🛠 [Front End](https://github.com/Chocode-iFood/front): HTML, CSS, JavaScript
 <br />
 
+## 💻 Front End
+<br />
+
+A composição das telas segue a seguinte estrutura:
+<br />
+
+- Autenticação do entregador
+
+[Colocar]
+<br />
+- Consulta de pedidos
+
+[Colocar]
+<br />
+- Atribuição de pedido pelo entregador
+
+[Colocar]
+<br />
+- Alteração de status do pedido (cancelado/concluído)
+
+[Colocar]
+<br />
+
+## 💻 Back End
+<br />
 Iniciamos com a importação de dependências necessárias pelo [Spring Initializr](https://start.spring.io/), conforme segue abaixo:
 - Spring Initializr 
 - Maven Project
@@ -65,19 +85,21 @@ Iniciamos com a importação de dependências necessárias pelo [Spring Initiali
 - Dependências do JWT sinalizado no arquivo pom.xml
 <br />
 
-## ⚙️ Modelagem do Banco de Dados
+### ⚙️ Modelagem do Banco de Dados
 <br />
+
 Realizamos a modelagem do banco de dados em consonância com a descrição do desafio.
 Utilizamos o banco relacional H2 e MySQL para os testes iniciais e posteriormente o Postgres. As configurações estão nos arquivos properties.
 <br />
 
-[Imagem do diagrama]
+<img height="380" src="https://github.com/Chocode-iFood/dados-complementares/blob/main/Diagrama.png?raw=true">
+
 <br />
 
 ## 📦 Estrutura dos Pacotes
 <br />
 A estrutura dos pacotes, com as classes e interfaces, está descrita a seguir:
-
+<br />
 📦 Model
 <br />
 📦 DAO → JpaRepository
@@ -91,48 +113,36 @@ A estrutura dos pacotes, com as classes e interfaces, está descrita a seguir:
 📦 Controller 
 <br />
 
-## 🖇 Endpoints do desafio: 
+### 🖇 Endpoints do desafio: 
 <br />
+
 - Endpoint para receber geolocalização do entregador
-	POST “/geolocalizacao”
+
+	*POST “/geolocalizacao”*
 
 - Endpoint para alteração dos status dos pedidos
-	PUT “/pedidos/{id}/status” 
+	
+	*PUT “/pedidos/{id}/status”* 
 
 - Endpoint para consulta de pedidos 
-	GET “/pedido/listar” 
+	
+	*GET “/pedido/listar”* 
 
 - Endpoint para consultas de geolocalização por pedido 
-	GET “/pedidos/{id}/geolocalizacao” 
+	
+	*GET “/pedidos/{id}/geolocalizacao”* 
 
 - Endpoint para atribuição do entregador para o pedido
-	POST “/pedidos/{id_pedido}/entregador/{id_entregador}”
+	
+	*POST “/pedidos/{id_pedido}/entregador/{id_entregador}”*
 
 - Endpoint para Autenticação de entregador 
-            POST “/entregador/login”
+         
+	 *POST “/entregador/login”*
 <br />
 
-## 💻 Front End
-<br />
-A composição das telas segue a seguinte estrutura:
-<br />
-- Autenticação do entregador
 
-[Colocar]
-<br />
-- Consulta de pedidos
-
-[Colocar]
-<br />
-- Atribuição de pedido pelo entregador
-
-[Colocar]
-<br />
-- Alteração de status do pedido (cancelado/concluído)
-
-[Colocar]
-<br />
-### 📋 Agradecimentos
+## 📋 Agradecimentos
 <br />
 Agradecemos a Ifood, Foodlover Danilo De Luca, professor Danilo da Gama Academy e todos que também contribuíram para o desenvolvimento do projeto.
 
