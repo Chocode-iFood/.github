@@ -132,5 +132,5 @@ A estrutura dos pacotes, com as classes e interfaces, está descrita a seguir:
 
 ## 📋 Agradecimentos
 <br />
-Agradecemos a Ifood, Foodlover Danilo De Luca, professor Danilo da Gama Academy e todos que também contribuíram para o desenvolvimento do projeto.
+Agradecemos a Ifood, Foodlover Danilo De Luca, professor Danilo da Gama Academy e todos que também contribuíram para o desenvolvimento do projeto. E as tias da creche que nos dava sopa quando ficavamos doente!
 
