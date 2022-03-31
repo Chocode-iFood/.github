@@ -129,6 +129,10 @@ A estrutura dos pacotes, com as classes e interfaces, está descrita a seguir:
 - Endpoint para Autenticação de entregador 
 <br />
 
+### 🚀 Deploy
+
+Para o deploy utilizamos o GitHub Pages e Heroku.
+
 
 ## 📋 Agradecimentos
 <br />
