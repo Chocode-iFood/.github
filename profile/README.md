@@ -50,19 +50,24 @@ A composição das telas segue a seguinte estrutura:
 
 - Autenticação do entregador
 
-[Colocar]
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/login.gif?raw=true)
+
+
 <br />
 - Consulta de pedidos
 
-[Colocar]
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/pedido.gif?raw=true)
+
 <br />
 - Atribuição de pedido pelo entregador
 
-[Colocar]
-<br />
-- Alteração de status do pedido (cancelado/concluído)
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/track.gif?raw=true)
 
-[Colocar]
+<br />
+- Alteração de status do pedido 
+
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/final.gif?raw=true)
+
 <br />
 
 ## 💻 Back End
