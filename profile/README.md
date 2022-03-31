@@ -50,23 +50,23 @@ A composição das telas segue a seguinte estrutura:
 
 - Autenticação do entregador
 
-![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/login.gif?raw=true)
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-login.gif?raw=true)
 
 
 <br />
 - Consulta de pedidos
 
-![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/pedido.gif?raw=true)
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-consulta.gif?raw=true)
 
 <br />
 - Atribuição de pedido pelo entregador
 
-![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/track.gif?raw=true)
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-atribuicao.gif?raw=true)
 
 <br />
 - Alteração de status do pedido 
 
-![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/final.gif?raw=true)
+![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-final.gif?raw=true)
 
 <br />
 
@@ -142,5 +142,5 @@ Para o deploy utilizamos o GitHub Pages e Heroku.
 
 ## 📋 Agradecimentos
 <br />
-Agradecemos a Ifood, Foodlover Danilo De Luca, professor Danilo da Gama Academy e todos que também contribuíram para o desenvolvimento do projeto. E as tias da creche que nos dava sopa quando ficavamos doente!
+Agradecemos a Ifood, Foodlover Danilo De Luca, professor Danilo da Gama Academy e todos que também contribuíram para o desenvolvimento do projeto. 
 
