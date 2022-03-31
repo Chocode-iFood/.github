@@ -127,12 +127,13 @@ A estrutura dos pacotes, com as classes e interfaces, está descrita a seguir:
 - Endpoint para consultas de geolocalização por pedido 
 - Endpoint para atribuição do entregador para o pedido
 - Endpoint para Autenticação de entregador 
-<br />
+
 
 ### 🚀 Deploy
 
 Para o deploy utilizamos o GitHub Pages e Heroku.
 
+<br />
 
 ## 📋 Agradecimentos
 <br />
