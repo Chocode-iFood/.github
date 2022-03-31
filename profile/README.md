@@ -94,7 +94,7 @@ Iniciamos com a importação de dependências necessárias pelo Spring Initializ
 <br />
 
 Realizamos a modelagem do banco de dados em consonância com a descrição do desafio.
-Utilizamos o banco relacional H2 e MySQL para os testes iniciais e posteriormente o Postgres. As configurações estão nos arquivos properties.
+Utilizamos o banco relacional H2 e MySQL para os testes iniciais e posteriormente o PostgreSQL. As configurações estão nos arquivos properties.
 <br />
 
 <img height="380" src="https://github.com/Chocode-iFood/dados-complementares/blob/main/Diagrama%20Atualizado.png?raw=true">
