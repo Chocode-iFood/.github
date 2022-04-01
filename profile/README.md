@@ -48,23 +48,26 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 A composição das telas segue a seguinte estrutura:
 <br />
 
-- Autenticação do entregador
+### Autenticação do entregador
 
 ![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-login.gif?raw=true)
 
 
 <br />
-- Consulta de pedidos
+
+### Consulta de pedidos
 
 ![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-consulta.gif?raw=true)
 
 <br />
-- Atribuição de pedido pelo entregador
+
+### Atribuição de pedido pelo entregador
 
 ![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-atribuicao.gif?raw=true)
 
 <br />
-- Alteração de status do pedido 
+
+### Alteração de status do pedido 
 
 ![alt text](https://github.com/Chocode-iFood/.github/blob/main/profile/gif-final.gif?raw=true)
 
